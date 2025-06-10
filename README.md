@@ -1,5 +1,17 @@
-# Welcome to GitHub Desktop!
+# Onkardeep Singh's Personal Webpage
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is a simple HTML webpage I created as a part of my college assignment.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## About
+The webpage contains information about me, including:
+- A short introduction
+- My favourite courses
+- My personal skills
+- A motivational quote
+
+## How to View
+Simply open the `index.html` file in your web browser.
+
+---
+
+&copy; 2025 Onkardeep Singh
